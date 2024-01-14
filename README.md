@@ -10,8 +10,8 @@
 <img alt="imegeek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imegeek&show_icons=true&include_all_commits=true&hide_border=true"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imegeek&" alt="imegeek" /></p>
 
-- 🧑🏻‍🏫 I’m currently working very hard.
-- 📖 I’m currently learning [`C`](https://google.com/search?q=c+language) and [`python`](https://google.com/search?q=python+language)
+- 🧑🏻‍🏫 I create cross platform software and tools.
+- 📖 I’m very passionate about learning new things.
 - 🕵️ I’m looking to collaborate with other content creators.
 - 💬 Join my [telegram](https://t.me/imegeek) group
 
