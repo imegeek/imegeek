@@ -91,7 +91,7 @@
 <div align="center">
 <a href="https://github.com/imegeek/pentesting-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imegeek&repo=pentesting-framework"></a>
 <a href="https://github.com/imegeek/Theme-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imegeek&repo=Theme-Engine"></a>
-<a href="https://github.com/imegeek/Theme-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imegeek&repo=terminal-widgets"></a>
+<a href="https://github.com/imegeek/termina-widgets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imegeek&repo=terminal-widgets"></a>
 <a href="https://github.com/imegeek/Login-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imegeek&repo=Login-page"></a>
 <a href="https://github.com/imegeek/Termux-security"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imegeek&repo=Termux-security"></a>
 </div>
